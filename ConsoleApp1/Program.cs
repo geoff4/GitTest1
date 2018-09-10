@@ -15,6 +15,7 @@ namespace ConsoleApp1
             Console.WriteLine("Hello World!");
             // comment edited in github
             Console.WriteLine("Now leave me alone.");
+            // comment was added in visual studio
             Console.ReadKey();
 
             // Go to http://aka.ms/dotnet-get-started-console to continue learning how to build a console app! 
