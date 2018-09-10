@@ -17,6 +17,7 @@ namespace ConsoleApp1
             Console.WriteLine("Now leave me alone.");
             // comment was added in visual studio
             Console.ReadKey();
+            // comment added in branch for NewFeature1
 
             // Go to http://aka.ms/dotnet-get-started-console to continue learning how to build a console app! 
         }
